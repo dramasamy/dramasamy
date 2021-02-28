@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @dramasamy
+- https://dramasamy.medium.com/
+- https://www.linkedin.com/in/dramasam/
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
