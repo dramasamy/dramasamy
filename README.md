@@ -1,6 +1,10 @@
 - https://dramasamy.medium.com/
 - https://www.linkedin.com/in/dramasam/
 
+- ## 🏆 GitHub Stats
+
+![Luke's GitHub stats including private contributions](https://github-readme-stats.vercel.app/api?username=dramasamy&show_icons=true&theme=radical&count_private=true)
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
