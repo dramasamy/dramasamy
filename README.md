@@ -1,6 +1,6 @@
 ### 📫 How to reach me ...
 - Check out my articles on Medium: https://dramasamy.medium.com
-- Connect with me on LinkedIn: [[[https://www.linkedin.com/in/123/](https://www.linkedin.com/in/dramasam/)]([https://www.linkedin.com/in/123/]())](https://www.linkedin.com/in/dramasam/)
+- Connect with me on LinkedIn: https://www.linkedin.com/in/dramasam/
 
 - ## 🏆 GitHub Stats
 
